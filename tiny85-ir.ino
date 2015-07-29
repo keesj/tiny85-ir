@@ -2,11 +2,11 @@
 #include <SoftSerial.h>
 
 /* Pin configuration */
-#define IR_PIN                  0
+#define IR_PIN                  3
 #define LED_PIN                 1
 
-#define RELAY_UP_PIN           3  
-#define RELAY_DOWN_PIN         4  
+#define RELAY_UP_PIN          0  
+#define RELAY_DOWN_PIN        2  
 
 
 /* Infrared dependent */
